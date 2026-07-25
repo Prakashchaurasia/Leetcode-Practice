@@ -31,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
