@@ -58,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Depth-First Search
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Union-Find
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Graph Theory
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
