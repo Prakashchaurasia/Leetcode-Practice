@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Counting Sort
 |  |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
