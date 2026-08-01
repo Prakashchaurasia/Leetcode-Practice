@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
