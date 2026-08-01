@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Combinatorics
 |  |
