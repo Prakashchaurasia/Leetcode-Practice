@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 ## Math
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
