@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
