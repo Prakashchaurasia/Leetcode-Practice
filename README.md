@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
