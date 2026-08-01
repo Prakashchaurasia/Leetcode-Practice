@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -167,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
