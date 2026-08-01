@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 ## Math
@@ -185,10 +187,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
