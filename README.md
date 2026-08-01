@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 ## Math
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Combinatorics
 |  |
