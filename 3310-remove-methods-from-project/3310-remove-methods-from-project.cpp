@@ -32,10 +32,6 @@ unordered_set<int> suspicious;
             if(b1!=b2){
                 x=1;
             }
-            // else if(b1==false && b2==false){
-            //     h1.insert(invocations[i][0]);
-            //     h1.insert(invocations[i][1]);
-            // }
         }
         vector<int> ans;
         if(x==1){
@@ -43,23 +39,11 @@ unordered_set<int> suspicious;
                 ans.push_back(i);
              }
         }
-        // else if(suspicious.size()==1){
-        //     for(int i=0;i<n;i++){
-        //        if(i!=k) ans.push_back(i);
-        //     }
-        // }
         else if(h1.size()==0){
             for(int i=0;i<n;i++){
                if(suspicious.find(i)==suspicious.end()) ans.push_back(i);
              }
         }
-        // else{
-        //     for(auto ele:h1){
-        //         ans.push_back(ele);
-        //     }
-        // }
-
         return ans;
-
     }
 };
