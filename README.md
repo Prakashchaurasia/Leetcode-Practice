@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2270-number-of-ways-to-split-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [2270-number-of-ways-to-split-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2270-number-of-ways-to-split-array) |
 ## Recursion
 |  |
 | ------- |
