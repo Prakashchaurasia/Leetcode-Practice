@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
