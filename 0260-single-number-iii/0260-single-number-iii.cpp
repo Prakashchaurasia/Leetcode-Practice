@@ -2,13 +2,16 @@ class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
         int n=nums.size();
-        vector<int> ans;
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<n-1;i++){
-            if(nums[i]==nums[i+1]) i++;
-            else ans.push_back(nums[i]);
+        long long x = 0;
+        for(int i=0;i<n;i++){
+           x^=nums[i];
         }
-        if(ans.size()==1) ans.push_back(nums[n-1]);
-        return ans;
+        int a=0,b=0;
+        int rightmost=(x & (x-1)) ^ x;
+        for(int i=0;i<n;i++){
+            if(rightmost & nums[i]) a^=nums[i];
+            else b^=nums[i];
+        }
+        return {a,b};
     }
 };
