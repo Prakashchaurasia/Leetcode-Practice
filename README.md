@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
+| [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
