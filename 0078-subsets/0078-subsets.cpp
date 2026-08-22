@@ -1,18 +1,15 @@
 class Solution {
 public:
-    void helper(vector<int>& nums,vector<int> ans,vector<vector<int>>& finalans,int idx){
-        if(idx==nums.size()){
-            finalans.push_back(ans);
-            return;
-        }
-        helper(nums,ans,finalans,idx+1);
-        ans.push_back(nums[idx]);
-         helper(nums,ans,finalans,idx+1);
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
-    vector<int> ans;
-    vector<vector<int>> finalans;  
-    helper(nums, ans,finalans,0);
-    return finalans;
+        vector<vector<int>> ans;
+        int n=nums.size();
+        for(int i=0;i<(1<<n);i++){
+            vector<int> h;
+            for(int j=0;j<n;j++){
+                if(i & (1<<j)) h.push_back(nums[j]);
+            }
+            ans.push_back(h);
+        }
+        return ans;
     }
 };
