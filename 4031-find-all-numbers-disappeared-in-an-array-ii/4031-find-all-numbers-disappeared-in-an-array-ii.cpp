@@ -5,10 +5,10 @@ public:
         sort(nums.begin(),nums.end());
         int h1=lower;
 
-        if(nums.empty()) {
-            ans.push_back({lower, upper});
-            return ans;
-        }
+        // if(nums.empty()) {
+        //     ans.push_back({lower, upper});
+        //     return ans;
+        // }
 
         if(upper < nums[0]) {
             ans.push_back({lower, upper});
