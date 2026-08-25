@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
