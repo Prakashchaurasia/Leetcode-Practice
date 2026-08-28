@@ -12,7 +12,7 @@ public:
                 count[s[l]-'A']--;
                 l+=1;
             }
-            if((r-l+1)-maxFreq<=k){
+            else if((r-l+1)-maxFreq<=k){
                 maxLength=max(maxLength,r-l+1);
             }
             r++;
