@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
+| [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Combinatorics
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -443,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
