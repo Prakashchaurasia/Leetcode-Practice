@@ -6,11 +6,6 @@ public:
         int h=INT_MAX;
         int t=INT_MAX;
         if(i==n-1) {
-            // for(int k=0;k<n;k++){
-            //     if(k==j) continue;
-            //     h=min(h,grid[n-1][k]);
-            // }
-            // return h;
             return grid[i][j];
         }
         if(dp[i][j]!=INT_MAX) return dp[i][j];
