@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
@@ -470,4 +472,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
