@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0915-partition-array-into-disjoint-intervals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
