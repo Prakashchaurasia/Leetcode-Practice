@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -485,8 +488,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
