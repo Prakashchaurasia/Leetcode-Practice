@@ -6,12 +6,11 @@ public:
         if(dp[idx][len] != -1)  return dp[idx][len];
         long long notPick=f(idx - 1, s, tar, len, dp);
         long long pick=0;
-        if(s[idx]==tar[tar.size()-len-1])
-            pick=f(idx-1,s,tar,len+1,dp);
-
+        if(s[idx]==tar[tar.size()-len-1]){
+             pick=f(idx-1,s,tar,len+1,dp);
+        }
         return dp[idx][len]=pick+notPick;
     }
-
     int numDistinct(string s, string t) {
         int n = s.size();
         int m = t.size();
