@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
