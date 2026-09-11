@@ -2,31 +2,20 @@ class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
         int n=digits.size();
-        unordered_map<int,int> mp;
+        unordered_set<int> st;
         for(int i=0;i<n;i++){
-            mp[digits[i]]++;
-        }
-        int ans=0;
-        for(int i=100;i<999;i++){
-            unordered_map<int,int> h;
-            h=mp;
-            int t=0;
-            int p=i;
-            if(i%2==0){
-               while(p>0){
-                  if(h.count(p%10)){
-                      h[p%10]--;
-                      if(h[p%10]==0) h.erase(p%10);
-                  }
-                  else {
-                    t=1;
-                    break;
-                  }
-                  p/=10;
-               }
-               if(t==0) ans++;
+            if(digits[i]==0) continue;
+            for(int j=0;j<n;j++){
+                if(j==i) continue;
+                for(int k=0;k<n;k++){
+                   if(k==i || k==j) continue;
+                   if(digits[k]%2==0) {
+                      int h=100*digits[i] + 10*digits[j] + digits[k];
+                      st.insert(h);
+                   }
+                }
             }
         }
-        return ans;
+        return (int)st.size();
     }
 };
