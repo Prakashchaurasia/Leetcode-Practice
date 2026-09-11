@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
