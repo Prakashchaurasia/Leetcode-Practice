@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
