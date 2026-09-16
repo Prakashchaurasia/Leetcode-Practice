@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2270-number-of-ways-to-split-array) |
