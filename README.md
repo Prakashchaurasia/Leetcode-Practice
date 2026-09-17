@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
