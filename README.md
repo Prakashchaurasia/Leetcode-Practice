@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
