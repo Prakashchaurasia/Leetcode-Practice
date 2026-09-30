@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-sum-of-beauty-in-the-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -637,4 +640,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
