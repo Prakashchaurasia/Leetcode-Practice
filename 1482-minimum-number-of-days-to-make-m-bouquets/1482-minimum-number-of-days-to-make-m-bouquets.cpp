@@ -1,10 +1,11 @@
+#define ll long long
 class Solution {
 public:
     int minDays(vector<int>& bloomday, int m, int k) {
         int n=bloomday.size();
         int l=*min_element(bloomday.begin(),bloomday.end());
         int h=*max_element(bloomday.begin(),bloomday.end());
-        // if(m*k>n) return -1;
+        if(1LL * (ll)m * (ll)k >n) return -1;
         int ans=-1;
         while(l<=h){
             int mid=l+(h-l)/2;
