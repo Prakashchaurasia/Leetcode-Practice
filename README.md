@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0414-third-maximum-number](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
