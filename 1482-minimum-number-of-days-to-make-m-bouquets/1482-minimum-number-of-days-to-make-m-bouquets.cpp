@@ -1,32 +1,31 @@
 class Solution {
 public:
-    int minDays(vector<int>& bloomDay, int m, int k) {
-        int mn=1;
-        int mx=1e9;
+    int minDays(vector<int>& bloomday, int m, int k) {
+        int n=bloomday.size();
+        int l=*min_element(bloomday.begin(),bloomday.end());
+        int h=*max_element(bloomday.begin(),bloomday.end());
+        // if(m*k>n) return -1;
         int ans=-1;
-        int n=bloomDay.size();
-        while(mx>=mn){
-            int t=0;
-            int h=0;
-            int md=mn+(mx-mn)/2;
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            int c=0;
+            int a=0;
             for(int i=0;i<n;i++){
-                if(bloomDay[i]<=md){
-                    t++;
-                    if(t==k) {
-                        h++;
-                        t=0;
+                if(bloomday[i]<=mid){
+                    c++;
+                    if(c==k){
+                        a++;
+                        c=0;
                     }
                 }
-                else{
-                    t=0;
-                }
+                else c=0;
             }
-            if(h>=m){
-                ans=md;
-                mx=md-1;
+            if(a>=m){
+                ans=mid;
+                h=mid-1;
             }
             else{
-                mn=md+1;
+                l=mid+1;
             }
         }
         return ans;
