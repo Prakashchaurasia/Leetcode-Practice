@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0410-split-array-largest-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0410-split-array-largest-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
