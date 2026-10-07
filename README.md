@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [1096-brace-expansion-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
