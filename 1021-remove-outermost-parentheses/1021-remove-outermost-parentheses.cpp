@@ -10,10 +10,10 @@ public:
              count++;
            }
            if(s[i]==')'){
-
+            if(count>1) ans+=s[i];
              count--;
-             ans+=s[i];
-             if(count == 0) ans.pop_back();
+            //  ans+=s[i];
+            //  if(count == 0) ans.pop_back();
            }
        }
        return ans;
