@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hamiltonian Path
 |  |
 | ------- |
