@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
