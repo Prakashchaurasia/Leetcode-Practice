@@ -3,42 +3,40 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-
-        // {digit sum, value, original index}
-        vector<tuple<int, int, int>> v;
+        vector<pair<int, int>> v(n);
 
         for (int i = 0; i < n; i++) {
-            int x = nums[i], s = 0;
+            int s = 0, x = nums[i];
 
             while (x > 0) {
                 s += x % 10;
                 x /= 10;
             }
 
-            v.push_back({s, nums[i], i});
+            v[i] = {s, nums[i]};
         }
 
-        sort(v.begin(), v.end());
-
-        vector<int> pos(n);
+        vector<pair<pair<int, int>, int>> a(n);
 
         for (int i = 0; i < n; i++) {
-            int originalIndex = get<2>(v[i]);
-            pos[originalIndex] = i;
+            a[i] = {v[i], i};
         }
 
-        int swaps = 0;
+        sort(a.begin(), a.end());
+
         vector<bool> vis(n, false);
+        int swaps = 0;
 
         for (int i = 0; i < n; i++) {
-            if (vis[i] || pos[i] == i)
+            if (vis[i] || a[i].second == i)
                 continue;
 
-            int j = i, cycle = 0;
+            int cycle = 0;
+            int j = i;
 
             while (!vis[j]) {
                 vis[j] = true;
-                j = pos[j];
+                j = a[j].second;
                 cycle++;
             }
 
