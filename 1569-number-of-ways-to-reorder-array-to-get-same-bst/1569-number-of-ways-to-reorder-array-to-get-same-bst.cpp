@@ -1,12 +1,25 @@
-
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-    vector<vector<long long>> comb;
+    const long long MOD = 1e9 + 7;
+    vector<long long> fact, invFact;
+
+    long long power(long long a, long long b) {
+        long long res = 1;
+        while (b) {
+            if (b & 1) res = res * a % MOD;
+            a = a * a % MOD;
+            b >>= 1;
+        }
+        return res;
+    }
+
+    long long nCr(int n, int r) {
+        return fact[n] * invFact[r] % MOD
+             * invFact[n - r] % MOD;
+    }
 
     long long solve(vector<int>& nums) {
         int n = nums.size();
-
         if (n <= 2) return 1;
 
         vector<int> left, right;
@@ -18,29 +31,27 @@ public:
                 right.push_back(nums[i]);
         }
 
-        long long waysLeft = solve(left);
-        long long waysRight = solve(right);
+        long long ans = nCr(n - 1, left.size());
+        ans = ans * solve(left) % MOD;
+        ans = ans * solve(right) % MOD;
 
-        long long ways = comb[n - 1][left.size()];
-        ways = ways * waysLeft % MOD;
-        ways = ways * waysRight % MOD;
-
-        return ways;
+        return ans;
     }
 
     int numOfWays(vector<int>& nums) {
         int n = nums.size();
 
-        comb.assign(n, vector<long long>(n, 0));
+        fact.resize(n + 1);
+        invFact.resize(n + 1);
 
-        for (int i = 0; i < n; i++) {
-            comb[i][0] = comb[i][i] = 1;
+        fact[0] = 1;
+        for (int i = 1; i <= n; i++)
+            fact[i] = fact[i - 1] * i % MOD;
 
-            for (int j = 1; j < i; j++) {
-                comb[i][j] =
-                    (comb[i - 1][j - 1] + comb[i - 1][j]) % MOD;
-            }
-        }
+        invFact[n] = power(fact[n], MOD - 2);
+
+        for (int i = n - 1; i >= 0; i--)
+            invFact[i] = invFact[i + 1] * (i + 1) % MOD;
 
         return (solve(nums) - 1 + MOD) % MOD;
     }
