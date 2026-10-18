@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
+| [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0980-unique-paths-iii) |
+| [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
