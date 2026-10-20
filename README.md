@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -782,4 +785,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
