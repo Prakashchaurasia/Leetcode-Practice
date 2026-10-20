@@ -3,7 +3,8 @@ public:
     int sortableIntegers(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> prefMax(n + 1, 0);
+        vector<int> divisor;
+        vector<int> prefMax(n + 1, INT_MIN);
         vector<int> suffMin(n + 1, INT_MAX);
         vector<int> drop(n, 0);
 
@@ -19,32 +20,35 @@ public:
             drop[i] = drop[i - 1] + (nums[i - 1] > nums[i]);
         }
 
+        for (int i = 1; i * i <= n; i++) {
+            if (n % i == 0) {
+                divisor.push_back(i);
+
+                if (i != n / i)
+                    divisor.push_back(n / i);
+            }
+        }
+
         int ans = 0;
 
-        for (int k = 1; k <= n / k; k++) {
-            if (n % k != 0) continue;
+        for (int k : divisor) {
+            bool ok = true;
 
-            for (int t = 0; t < 2; t++) {
-                int len = (t == 0 ? k : n / k);
+            for (int i = 0; i < n; i += k) {
+                int j = i + k - 1;
+                int cnt = drop[j] - drop[i];
 
-                if (t == 1 && k == n / k) continue;
+                if (nums[j] > nums[i])
+                    cnt++;
 
-                bool ok = true;
-
-                for (int i = 0; i < n; i += len) {
-                    int j = i + len - 1;
-                    int cnt = drop[j] - drop[i];
-
-                    if (nums[j] > nums[i]) cnt++;
-
-                    if (cnt > 1 || prefMax[i] > suffMin[i]) {
-                        ok = false;
-                        break;
-                    }
+                if (cnt > 1 || prefMax[i] > suffMin[i]) {
+                    ok = false;
+                    break;
                 }
-
-                if (ok) ans += len;
             }
+
+            if (ok)
+                ans += k;
         }
 
         return ans;
