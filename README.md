@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1510-stone-game-iv) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -815,4 +819,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
