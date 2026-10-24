@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2409-count-days-spent-together](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
