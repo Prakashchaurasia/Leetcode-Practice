@@ -1,7 +1,6 @@
 class Solution {
 public:
     int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
-        unordered_set<int> st;
         int mdays[]={31,28,31,30,31,30,31,31,30,31,30,31};
 
         int aMonArrive=stoi(string() +arriveAlice[0]+arriveAlice[1]);
@@ -39,16 +38,10 @@ public:
             d4+=mdays[i];
         }
         d4+=bDayLeave;
-
-        for(int i=d1;i<=d2;i++){
-            st.insert(i);
-        }
-        int c=0;
-        for(int i=d3;i<=d4;i++){
-            if(st.count(i)) c++;
-        }
-        return c;
-
         
+        int p=max(d1,d3);
+        int q=min(d2,d4);
+        if(q<p) return 0;
+        return (q-p)+1;        
     }
 };
