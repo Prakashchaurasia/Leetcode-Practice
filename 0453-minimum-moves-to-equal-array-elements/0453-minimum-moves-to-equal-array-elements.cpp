@@ -8,7 +8,7 @@ public:
         }
         int count=0;
         // sort(nums.begin(),nums.end());
-        for(int i=n-1;i>=0;i--){
+        for(int i=0;i<n;i++){
             count+=(nums[i]-mn);
         }
         return count;
