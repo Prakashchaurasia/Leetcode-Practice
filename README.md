@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
