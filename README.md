@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2262-total-appeal-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2262-total-appeal-of-a-string) |
