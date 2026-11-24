@@ -12,12 +12,12 @@ public:
                 i++;
                 j--;
             }
-            else if(st.count(s[i])) j--;
-            else if(st.count(s[j])) i++;
-            else{
+            else if(!st.count(s[i]) && !st.count(s[j])){
                 i++;
                 j--;
             }
+            else if(st.count(s[i])) j--;
+            else i++;
         }
         return s;
     }
