@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
