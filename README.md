@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -985,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Prakashchaurasia/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
