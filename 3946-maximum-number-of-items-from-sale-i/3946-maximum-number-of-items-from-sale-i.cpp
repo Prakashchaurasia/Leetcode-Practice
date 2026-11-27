@@ -9,14 +9,12 @@ public:
         int notTake=0;
         notTake=f(i+1,items,budget,copies,0);
         if(items[i][1]<=budget){
-            int x=0;
             if(taken==0 ){
-                x=1+copies[i]+f(i,items,budget-items[i][1],copies,1);
+                take=1+copies[i]+f(i,items,budget-items[i][1],copies,1);
             }
             else{
-                x=1+f(i,items,budget-items[i][1],copies,1);
+                take=1+f(i,items,budget-items[i][1],copies,1);
             }
-            take=x;
         }
         return dp[i][budget][taken] = max(take,notTake);
     }
